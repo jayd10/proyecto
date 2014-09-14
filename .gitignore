@@ -1,0 +1,11 @@
+build
+
+bin
+
+.settings
+
+*.war
+*.class
+*.ear
+*.jar
+
